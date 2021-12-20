@@ -1,6 +1,6 @@
 # Language_Prediction
 
-The aim of this project is to identify the French and English languages in given texts.
+The aim of this project is to identify the French and English parts in text.
 
 Contents:
 
