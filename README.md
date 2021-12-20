@@ -4,7 +4,7 @@ The aim of this project is to identify the French and English parts in text.
 
 Contents:
 
-- A Naive Bayes implementation from scratch
+- Naive Bayes
 
 - Markovian Classifier
 
